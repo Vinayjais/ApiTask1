@@ -1,3 +1,5 @@
+Make sure you are connected with MySQL Database with you username and password.
+
 TO TEST APIS-----
 for contacts sync ---- 
 http://localhost:3000/sync/contacts
